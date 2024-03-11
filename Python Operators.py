@@ -1,6 +1,8 @@
 #Python Arithmetic Operators: +, -, *, /, // - floor division, % - modulo, ** - Power
+add = 10 + 5
+print(add)
 sub = 10 - 5
-print(sub)
+print(sub) 
 
 #Python Assignment Operators: Used to assign values to variables. = assignment operator,+= addition ass, -=, *=, /=, %= remainder ass, **= exponent ass  
 a= 7
