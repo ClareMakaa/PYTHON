@@ -14,6 +14,8 @@ print(languages[2])
 #Python String Data Type
 message ="Python for beginners"
 print(message)
+print(message[0]) #slicing
+print(message[0:6])
 
 #Python Set Data Type
 student_id ={112, 114, 116, 118} #sets are unordered collections
