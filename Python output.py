@@ -1,5 +1,5 @@
 print("Good Morning!")
-print("It is rainy today")
+print("It is rainy today!")
 
 #print(object= ) value(s) to be printed
 #print(sep= ) allows us to separate multiple objects inside print()
