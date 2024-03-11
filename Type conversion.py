@@ -1,7 +1,7 @@
 #Type conversion is converting data from one type to another
 #1. Converting int data to str.
-num1 = 6
-num2 = 9
+num1 = 5
+num2 = 8
 print("This output")
 
 #(A))Python Implicit Type Conversion - automatic type conversion
