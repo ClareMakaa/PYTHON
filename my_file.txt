@@ -1,0 +1,6 @@
+This is line 1
+2nd line with numbers: 12345
+Another line for testing
+Appended line 1
+Appending more: ABCDE
+Last line appended
